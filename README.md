@@ -10,12 +10,16 @@
 - 로그인, 주소 설정
 <img width="80%" src="https://user-images.githubusercontent.com/39077714/115925977-fd92df00-a4bc-11eb-8420-0e058a4cef52.gif"/>
 
+<br/>
+
 ### 01. 개인적으로 추가한 기능
 - 유저에게서 주소 입력 받고, 우편번호 검색(daum postcode API)
 - 배달원 - 가게 - 고객 간의 경로 라우팅(google map API)
 - 배달원 대쉬보드 개선
 - 메뉴에 이미지 추가
 - 기타 사소한 변경들
+
+<br/>
 
 ### 02. 사용한 것들
 - Nest JS
@@ -28,6 +32,8 @@
 - Cypress
 - postgres(heroku)
 - netlify
+
+<br/>
 
 ### 03. 강의에서 다룬 주제
 - User Authentication
@@ -42,13 +48,16 @@
 - Tailwind CSS
 - JWT Autentication
 
+<br/>
+
 ### 04. To-do(라고 적어두고 아마 안할 것)
 - 코드 정리(자금처럼 코딩해놓으면 뒤통수 맞을듯)
 - 구글맵 -> naver 또는 daum postcode로 변경
 - AWS로 이사(세팅하기 귀찮아서 안했는데...)
 - 사업자등록증 신청해서 payment 구현
 - React Native로 이사
-- 
+
+<br/>
 
 ### 05. 참고 사항 및 링크
 - 프리티어 서버다보니 서버가 깨는데 30초 정도 걸릴 수 있음.
