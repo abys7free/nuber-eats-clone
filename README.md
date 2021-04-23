@@ -1,6 +1,6 @@
 # nuber-eats-clone
 
-노마드코더 uber-eats 클론 강의를 바탕으로 기능 추가하여 마무리한 toy 프로젝트 입니다.
+노마드코더 uber-eats 클론 강의를 바탕으로 기능 추가하여 마무리한 토이 프로젝트 입니다.
 
 ### 00. Preview
 - Socket 통신으로 실시간 연동, Google Map Route
