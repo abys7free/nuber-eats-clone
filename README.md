@@ -18,10 +18,14 @@
 - 기타 사소한 변경들
 
 ### 02. 사용한 것들
-- Typescript
 - Nest JS
+- Typescript
+- TypeORM
+- GraphQL
+- Apollo
 - React JS with Typescript
 - Jest
+- Cypress
 - postgres(heroku)
 - netlify
 
