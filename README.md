@@ -3,7 +3,12 @@
 노마드코더 uber-eats 클론 강의를 바탕으로 기능 추가하여 마무리한 toy 프로젝트 입니다.
 
 ### 00. Preview
+- Socket 통신으로 실시간 연동, Google Map Route
+<img width="80%" src="https://user-images.githubusercontent.com/39077714/115924275-793f5c80-a4ba-11eb-81a7-4a3469c2ece0.gif"/>
+<br/>
 
+- 로그인, 주소 설정
+<img width="80%" src="https://user-images.githubusercontent.com/39077714/115925977-fd92df00-a4bc-11eb-8420-0e058a4cef52.gif"/>
 
 ### 01. 개인적으로 추가한 기능
 - 유저에게서 주소 입력 받고, 우편번호 검색(daum postcode API)
