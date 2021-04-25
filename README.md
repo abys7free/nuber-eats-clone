@@ -60,7 +60,7 @@
 <br/>
 
 ### 05. 링크 및 참고사항
-- https://nuber-eats-abys.netlify.app/
+- https://nuber-eats-dmwb.netlify.app/
 - 프리티어 서버다보니 서버가 깨는데 30초 정도 걸릴 수 있음.
 - 한국에서 google Map API는 routing을 지원하지 않음. 이거 몰라서 왜 안될까 며칠동안 고민함.  
 - 그래서 유저가 주소 세팅하거나 배달원 위치가 달라져도 미국 특정 지역으로 고정되게 설정해둠.
